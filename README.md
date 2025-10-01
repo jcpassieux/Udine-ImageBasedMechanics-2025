@@ -1,18 +1,7 @@
 # Udine-ImageBasedMechanics-2025
-Material for hands on sessions
+Getting Started with Python and `pyxel-dic` and everything to run the hands-on sessions
 
-# Getting Started with Python and `pyxel-dic`
-
-**Author:** JC Passieux  
-**Date:** _today_
-
-<p align="center">
-  <img src="pyxel.png" alt="pyxel logo" width="200"/>
-</p>
-
----
-
-## For those familiar with Python
+## 1. For those familiar with Python
 
 We recommend creating a new virtual environment and then installing the `pyxel-dic` library using the following command:
 
@@ -24,7 +13,7 @@ pip install pyxel-dic
 
 ---
 
-## For those less familiar with Python
+## 2. For those less familiar with Python
 
 This tutorial will guide you step by step to set up your computer, even if you’ve never used Python before. At the end, you’ll be ready to use the **pyxel-dic** library.
 
